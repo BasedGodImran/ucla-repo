@@ -1,0 +1,52 @@
+Number of Sequences: 0
+CGU
+GGA
+GGC
+CUA
+CCC
+ACU
+GUG
+ACG
+UGG
+AGG
+CCU
+ACC
+CAC
+UGU
+
+******
+
+Number of Sequences: 1
+Sequence: 0 Start Codon: 0 Stop Codon: 6
+GUG
+GAG
+GCC
+UAC
+CCA
+CUG
+UGA
+CGU
+GGA
+GGC
+CUA
+CCC
+ACU
+GUG
+
+******
+Number of Sequences: 1
+Sequence: 0 Start Codon: 7 Stop Codon: 13
+UGG
+AGG
+CCU
+ACC
+CAC
+UGU
+GAC
+GUG
+GAG
+GCC
+UAC
+CCA
+CUG
+UGA
