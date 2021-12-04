@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "testMain",
+      "setup": "",
+      "run": "ant test-single-method-CodonTester-testMain",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 40
+    }
+  ]
+}
